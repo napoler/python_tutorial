@@ -20,4 +20,5 @@
 ## 示例
 
 * [Yelp示例](shi-li/yelp-shi-li.md)
+* [临时指定pip源](lin-shi-zhi-ding-pip-yuan.md)
 
