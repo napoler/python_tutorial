@@ -26,3 +26,7 @@
 * [matplotlib作图.ipynb](https://colab.research.google.com/drive/1V2VBXx3rkRHH-mNt-LvcDw3eoEX-lhKN)
 * [reformer\_pytorch中文示例](https://colab.research.google.com/drive/1_YJpr-8pswWccFo01tbx1xZd3tKsf8td)
 
+## 机器学习
+
+* [kNN分类器 半监督学习](ji-qi-xue-xi/knn-fen-lei-qi-ban-jian-du-xue-xi.md)
+
