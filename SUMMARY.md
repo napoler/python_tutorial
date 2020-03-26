@@ -15,5 +15,8 @@
 
 ## Tikt模块
 
-* [Untitled](tikt-mo-kuai/untitled.md)
+* [Untitled](tikt-mo-kuai/untitled-1.md)
+* [tkitText模块](tikt-mo-kuai/untitled/README.md)
+  * [获取文本md5](tikt-mo-kuai/untitled/huo-qu-wen-ben-md5.md)
+* [tkit](http://terry-toolkit.rtfd.io/)
 
