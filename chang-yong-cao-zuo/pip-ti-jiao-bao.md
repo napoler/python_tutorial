@@ -51,3 +51,12 @@ setup(
     packages=['albertk'])
 ```
 
+{% embed url="https://MANIFEST.in文件" %}
+
+MANIFEST.in文件，用于包含其他文件
+
+```text
+include albert_pytorch/tools/*
+
+```
+
