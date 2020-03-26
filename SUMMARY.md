@@ -6,5 +6,9 @@
 ## 示例
 
 * [Yelp示例](shi-li/yelp-shi-li.md)
-* [Python项目标准化操作](python-xiang-mu-biao-zhun-hua-cao-zuo.md)
+
+## 常用操作
+
+* [Python项目标准化操作](chang-yong-cao-zuo/python-xiang-mu-biao-zhun-hua-cao-zuo.md)
+* [Untitled](chang-yong-cao-zuo/untitled.md)
 
