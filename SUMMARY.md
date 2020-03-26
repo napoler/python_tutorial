@@ -29,4 +29,7 @@
 ## 机器学习
 
 * [kNN分类器 半监督学习](ji-qi-xue-xi/knn-fen-lei-qi-ban-jian-du-xue-xi.md)
+* [拼接文件路径](pin-jie-wen-jian-lu-jing.md)
+* [搜索关键词进行聚类](sou-suo-guan-jian-ci-jin-hang-ju-lei.md)
+* [开源搜索elasticsearch](kai-yuan-sou-suo-elasticsearch.md)
 
