@@ -1,5 +1,9 @@
 # pip提交包
 
+到这里注册帐号[https://pypi.org/](https://pypi.org/)
+
+### 提交包
+
 ```text
 python3 setup.py sdist
 python3 setup.py install
