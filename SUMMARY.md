@@ -33,4 +33,5 @@
 * [搜索关键词进行聚类](sou-suo-guan-jian-ci-jin-hang-ju-lei.md)
 * [开源搜索elasticsearch](kai-yuan-sou-suo-elasticsearch.md)
 * [albertk文本聚类](albertk-wen-ben-ju-lei.md)
+* [try except 捕获所有异常](try-except-bu-huo-suo-you-yi-chang.md)
 
