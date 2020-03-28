@@ -26,6 +26,10 @@ virtualenv是跨平台的，linux、mac、windows都可以使用。
 > pip install pipreqs  
 > \# 使用  
 > pipreqs ./
+>
+> \#遇到已经存在 强制覆盖
+>
+> pipreqs ./ --force
 
 ### 安装依赖
 
