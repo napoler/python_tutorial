@@ -34,8 +34,6 @@
 * [开源搜索elasticsearch](kai-yuan-sou-suo-elasticsearch.md)
 * [albertk文本聚类](albertk-wen-ben-ju-lei.md)
 * [try except 捕获所有异常](try-except-bu-huo-suo-you-yi-chang.md)
-* [Albert 中文模型 \(for pytorch-transformers\)](albert-zhong-wen-mo-xing-for-pytorchtransformers.md)
-* [albert\_zh 中文模型 tf版本和pytorch](albertzh-zhong-wen-mo-xing-tf-ban-ben-he-pytorch.md)
 * [Untitled](untitled.md)
 
 ## 训练语料
@@ -46,6 +44,8 @@
 
 ## 预训练模型
 
+* [albert\_zh 中文模型 tf版本和pytorch](yu-xun-lian-mo-xing/albertzh-zhong-wen-mo-xing-tf-ban-ben-he-pytorch/README.md)
+  * [Albert 中文模型 \(for pytorch-transformers\)](yu-xun-lian-mo-xing/albertzh-zhong-wen-mo-xing-tf-ban-ben-he-pytorch/albert-zhong-wen-mo-xing-for-pytorchtransformers.md)
 * [中文BERT-wwm系列](yu-xun-lian-mo-xing/untitled-1.md)
 * [BERT/ELMO/词向量](yu-xun-lian-mo-xing/bertelmo-ci-xiang-liang.md)
 * [Transformers更多预训练模型](transformers-geng-duo-yu-xun-lian-mo-xing.md)
