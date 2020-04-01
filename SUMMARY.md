@@ -41,5 +41,6 @@
 ## 训练语料
 
 * [中文训练数据集](xun-lian-yu-liao/zhong-wen-xun-lian-shu-ju-ji.md)
-* [大规模中文自然语言处理语料](xun-lian-yu-liao/da-gui-mo-zhong-wen-zi-ran-yu-yan-chu-li-yu-liao.md)
+* [大规模中文自然语言处理语料](xun-lian-yu-liao/da-gui-mo-zhong-wen-zi-ran-yu-yan-chu-li-yu-liao/README.md)
+  * [中文语言理解测评基准](xun-lian-yu-liao/da-gui-mo-zhong-wen-zi-ran-yu-yan-chu-li-yu-liao/zhong-wen-yu-yan-li-jie-ce-ping-ji-zhun.md)
 
