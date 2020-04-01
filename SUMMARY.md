@@ -34,4 +34,5 @@
 * [开源搜索elasticsearch](kai-yuan-sou-suo-elasticsearch.md)
 * [albertk文本聚类](albertk-wen-ben-ju-lei.md)
 * [try except 捕获所有异常](try-except-bu-huo-suo-you-yi-chang.md)
+* [中文训练数据集](zhong-wen-xun-lian-shu-ju-ji.md)
 
