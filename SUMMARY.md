@@ -44,3 +44,8 @@
 * [大规模中文自然语言处理语料](xun-lian-yu-liao/da-gui-mo-zhong-wen-zi-ran-yu-yan-chu-li-yu-liao/README.md)
   * [中文语言理解测评基准](xun-lian-yu-liao/da-gui-mo-zhong-wen-zi-ran-yu-yan-chu-li-yu-liao/zhong-wen-yu-yan-li-jie-ce-ping-ji-zhun.md)
 
+## 预训练模型
+
+* [中文BERT-wwm系列](yu-xun-lian-mo-xing/untitled-1.md)
+* [BERT/ELMO/词向量](yu-xun-lian-mo-xing/bertelmo-ci-xiang-liang.md)
+
