@@ -2,6 +2,10 @@
 
 ### 为中文自然语言处理领域发展贡献语料
 
+项目地址
+
+[https://github.com/brightmart/nlp\_chinese\_corpus](https://github.com/brightmart/nlp_chinese_corpus)
+
 贡献中文语料，请发送邮件: nlp\_chinese\_corpus@163.com
 
  _**update \***_
