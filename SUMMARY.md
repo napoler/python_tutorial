@@ -35,4 +35,5 @@
 * [albertk文本聚类](albertk-wen-ben-ju-lei.md)
 * [try except 捕获所有异常](try-except-bu-huo-suo-you-yi-chang.md)
 * [中文训练数据集](zhong-wen-xun-lian-shu-ju-ji.md)
+* [Albert 中文模型 \(for pytorch-transformers\)](albert-zhong-wen-mo-xing-for-pytorchtransformers.md)
 
