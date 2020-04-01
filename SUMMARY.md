@@ -48,4 +48,5 @@
 
 * [中文BERT-wwm系列](yu-xun-lian-mo-xing/untitled-1.md)
 * [BERT/ELMO/词向量](yu-xun-lian-mo-xing/bertelmo-ci-xiang-liang.md)
+* [Transformers更多预训练模型](transformers-geng-duo-yu-xun-lian-mo-xing.md)
 
