@@ -49,4 +49,7 @@
 * [中文BERT-wwm系列](yu-xun-lian-mo-xing/untitled-1.md)
 * [BERT/ELMO/词向量](yu-xun-lian-mo-xing/bertelmo-ci-xiang-liang.md)
 * [Transformers更多预训练模型](transformers-geng-duo-yu-xun-lian-mo-xing.md)
+* [中文NLP数据集，附常用英文NLP数据集](untitled-1.md)
+* [开源的数据标注工具](untitled-2.md)
+* [中文文本多层分类数据集今日头条](zhong-wen-wen-ben-duo-ceng-fen-lei-shu-ju-ji-jin-ri-tou-tiao.md)
 
