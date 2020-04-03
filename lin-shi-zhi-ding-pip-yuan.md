@@ -21,5 +21,7 @@ pip install pythonModuleName -i https://pypi.douban.com/simple
 
 豆瓣：http://pypi.douban.com/simple/
 
+官方：[https://pypi.python.org/pypi](https://pypi.python.org/pypi)
+
 _note：新版ubuntu要求使用https源，要注意_
 
