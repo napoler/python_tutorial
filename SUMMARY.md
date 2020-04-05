@@ -57,4 +57,7 @@
 * [nlp合集](nlp-he-ji.md)
 * [nlp示例](https://github.com/graykode/nlp-tutorial)
 * [Bert任务说明](bert-ren-wu-shuo-ming.md)
+* [BertModel 获取隐藏状态](bertmodel-huo-qu-yin-cang-zhuang-tai.md)
+* [Bert训练实体标注](bert-xun-lian-shi-ti-biao-zhu.md)
+* [自动生成内容](zi-dong-sheng-cheng-nei-rong.md)
 
