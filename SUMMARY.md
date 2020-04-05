@@ -38,6 +38,9 @@
 
 ## 训练语料
 
+* [20W新浪微博用户的数据](xun-lian-yu-liao/20w-xin-lang-wei-bo-yong-hu-de-shu-ju.md)
+* [中文NLP数据集，附常用英文NLP数据集](xun-lian-yu-liao/untitled-1.md)
+* [中文文本多层分类数据集今日头条](xun-lian-yu-liao/zhong-wen-wen-ben-duo-ceng-fen-lei-shu-ju-ji-jin-ri-tou-tiao.md)
 * [中文语言理解测评基准](xun-lian-yu-liao/zhong-wen-yu-yan-li-jie-ce-ping-ji-zhun.md)
 * [中文语料情感标注语料](https://github.com/haowg/sentiments_annotation)
 * [中文训练数据集](xun-lian-yu-liao/zhong-wen-xun-lian-shu-ju-ji.md)
@@ -56,10 +59,7 @@
 * [BERT/ELMO/词向量](yu-xun-lian-mo-xing/bertelmo-ci-xiang-liang/README.md)
   * [训练RoBERTa模型tf](yu-xun-lian-mo-xing/bertelmo-ci-xiang-liang/xun-lian-roberta-mo-xing-tf.md)
 * [Transformers更多预训练模型](transformers-geng-duo-yu-xun-lian-mo-xing.md)
-* [中文NLP数据集，附常用英文NLP数据集](untitled-1.md)
 * [开源的数据标注工具](untitled-2.md)
-* [中文文本多层分类数据集今日头条](zhong-wen-wen-ben-duo-ceng-fen-lei-shu-ju-ji-jin-ri-tou-tiao.md)
-* [20W新浪微博用户的数据](20w-xin-lang-wei-bo-yong-hu-de-shu-ju.md)
 * [nlp合集](nlp-he-ji.md)
 * [nlp示例](https://github.com/graykode/nlp-tutorial)
 * [Bert任务说明](bert-ren-wu-shuo-ming.md)
