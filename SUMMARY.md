@@ -62,6 +62,10 @@
 * [自动生成内容](zi-dong-sheng-cheng-nei-rong.md)
 * [15个预训练模型对比](15-ge-yu-xun-lian-mo-xing-dui-bi.md)
 * [中文自然语言处理工具](zhong-wen-zi-ran-yu-yan-chu-li-gong-ju.md)
-* [腾讯词向量以及迷你缩小版本](teng-xun-ci-xiang-liang-yi-ji-mi-ni-suo-xiao-ban-ben.md)
-* [120G+训练好的word2vec模型（中文词向量）](120g+-xun-lian-hao-de-word2vec-mo-xing-zhong-wen-ci-xiang-liang.md)
+
+## 词向量
+
+* [腾讯词向量以及迷你缩小版本](ci-xiang-liang/teng-xun-ci-xiang-liang-yi-ji-mi-ni-suo-xiao-ban-ben.md)
+* [120G+训练好的word2vec模型（中文词向量）](ci-xiang-liang/120g+-xun-lian-hao-de-word2vec-mo-xing-zhong-wen-ci-xiang-liang.md)
+* [Untitled](ci-xiang-liang/untitled.md)
 
