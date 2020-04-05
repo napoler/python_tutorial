@@ -56,4 +56,5 @@
 * [20W新浪微博用户的数据](20w-xin-lang-wei-bo-yong-hu-de-shu-ju.md)
 * [nlp合集](nlp-he-ji.md)
 * [nlp示例](https://github.com/graykode/nlp-tutorial)
+* [Bert任务说明](bert-ren-wu-shuo-ming.md)
 
