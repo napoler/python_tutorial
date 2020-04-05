@@ -38,6 +38,7 @@
 
 ## 训练语料
 
+* [中文语料情感标注语料](https://github.com/haowg/sentiments_annotation)
 * [中文训练数据集](xun-lian-yu-liao/zhong-wen-xun-lian-shu-ju-ji.md)
 * [大规模中文自然语言处理语料](xun-lian-yu-liao/da-gui-mo-zhong-wen-zi-ran-yu-yan-chu-li-yu-liao/README.md)
   * [中文语言理解测评基准](xun-lian-yu-liao/da-gui-mo-zhong-wen-zi-ran-yu-yan-chu-li-yu-liao/zhong-wen-yu-yan-li-jie-ce-ping-ji-zhun.md)
@@ -67,4 +68,5 @@
 * [自动生成内容](zi-dong-sheng-cheng-nei-rong.md)
 * [15个预训练模型对比](15-ge-yu-xun-lian-mo-xing-dui-bi.md)
 * [中文自然语言处理工具](zhong-wen-zi-ran-yu-yan-chu-li-gong-ju.md)
+* [中文对话资料](zhong-wen-dui-hua-zi-liao.md)
 
