@@ -60,4 +60,5 @@
 * [BertModel 获取隐藏状态](bertmodel-huo-qu-yin-cang-zhuang-tai.md)
 * [Bert训练实体标注](bert-xun-lian-shi-ti-biao-zhu.md)
 * [自动生成内容](zi-dong-sheng-cheng-nei-rong.md)
+* [15个预训练模型对比](15-ge-yu-xun-lian-mo-xing-dui-bi.md)
 
