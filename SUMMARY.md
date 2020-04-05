@@ -61,4 +61,5 @@
 * [Bert训练实体标注](bert-xun-lian-shi-ti-biao-zhu.md)
 * [自动生成内容](zi-dong-sheng-cheng-nei-rong.md)
 * [15个预训练模型对比](15-ge-yu-xun-lian-mo-xing-dui-bi.md)
+* [中文自然语言处理工具](zhong-wen-zi-ran-yu-yan-chu-li-gong-ju.md)
 
