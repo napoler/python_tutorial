@@ -42,6 +42,12 @@
 * [大规模中文自然语言处理语料](xun-lian-yu-liao/da-gui-mo-zhong-wen-zi-ran-yu-yan-chu-li-yu-liao/README.md)
   * [中文语言理解测评基准](xun-lian-yu-liao/da-gui-mo-zhong-wen-zi-ran-yu-yan-chu-li-yu-liao/zhong-wen-yu-yan-li-jie-ce-ping-ji-zhun.md)
 
+## 词向量
+
+* [腾讯词向量以及迷你缩小版本](ci-xiang-liang/teng-xun-ci-xiang-liang-yi-ji-mi-ni-suo-xiao-ban-ben.md)
+* [120G+训练好的word2vec模型（中文词向量）](ci-xiang-liang/120g+-xun-lian-hao-de-word2vec-mo-xing-zhong-wen-ci-xiang-liang.md)
+* [Untitled](ci-xiang-liang/untitled.md)
+
 ## 预训练模型
 
 * [albert\_zh 中文模型 tf版本和pytorch](yu-xun-lian-mo-xing/albertzh-zhong-wen-mo-xing-tf-ban-ben-he-pytorch/README.md)
@@ -62,10 +68,4 @@
 * [自动生成内容](zi-dong-sheng-cheng-nei-rong.md)
 * [15个预训练模型对比](15-ge-yu-xun-lian-mo-xing-dui-bi.md)
 * [中文自然语言处理工具](zhong-wen-zi-ran-yu-yan-chu-li-gong-ju.md)
-
-## 词向量
-
-* [腾讯词向量以及迷你缩小版本](ci-xiang-liang/teng-xun-ci-xiang-liang-yi-ji-mi-ni-suo-xiao-ban-ben.md)
-* [120G+训练好的word2vec模型（中文词向量）](ci-xiang-liang/120g+-xun-lian-hao-de-word2vec-mo-xing-zhong-wen-ci-xiang-liang.md)
-* [Untitled](ci-xiang-liang/untitled.md)
 
