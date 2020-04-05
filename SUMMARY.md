@@ -34,7 +34,7 @@
 * [开源搜索elasticsearch](kai-yuan-sou-suo-elasticsearch.md)
 * [albertk文本聚类](albertk-wen-ben-ju-lei.md)
 * [try except 捕获所有异常](try-except-bu-huo-suo-you-yi-chang.md)
-* [Untitled](untitled.md)
+* [中文任务基准测评](untitled.md)
 
 ## 训练语料
 
@@ -46,7 +46,6 @@
 
 * [腾讯词向量以及迷你缩小版本](ci-xiang-liang/teng-xun-ci-xiang-liang-yi-ji-mi-ni-suo-xiao-ban-ben.md)
 * [120G+训练好的word2vec模型（中文词向量）](ci-xiang-liang/120g+-xun-lian-hao-de-word2vec-mo-xing-zhong-wen-ci-xiang-liang.md)
-* [Untitled](ci-xiang-liang/untitled.md)
 
 ## 预训练模型
 
