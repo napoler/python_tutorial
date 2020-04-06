@@ -70,5 +70,9 @@
 * [中文自然语言处理工具](zhong-wen-zi-ran-yu-yan-chu-li-gong-ju.md)
 * [中文对话资料](zhong-wen-dui-hua-zi-liao.md)
 * [命名实体标注](ming-ming-shi-ti-biao-zhu.md)
-* [文本标注工具](wen-ben-biao-zhu-gong-ju.md)
+
+## 自然语言工具
+
+* [文本标注工具](zi-ran-yu-yan-gong-ju/wen-ben-biao-zhu-gong-ju.md)
+* [Untitled](zi-ran-yu-yan-gong-ju/untitled.md)
 
