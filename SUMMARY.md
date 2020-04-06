@@ -69,4 +69,5 @@
 * [15个预训练模型对比](15-ge-yu-xun-lian-mo-xing-dui-bi.md)
 * [中文自然语言处理工具](zhong-wen-zi-ran-yu-yan-chu-li-gong-ju.md)
 * [中文对话资料](zhong-wen-dui-hua-zi-liao.md)
+* [命名实体标注](ming-ming-shi-ti-biao-zhu.md)
 
