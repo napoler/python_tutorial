@@ -16,6 +16,10 @@ pip install tkitMarker_bert
 
 ## 测试
 
+这里有个小模型
+
+[https://www.kaggle.com/terrychanorg/tmarkdescriptionmodel](https://www.kaggle.com/terrychanorg/tmarkdescriptionmodel)
+
 ```text
 from tkitMarker_bert import Marker
 
