@@ -78,4 +78,5 @@
 * [Linux下监视NVIDIA的GPU使用情况](linux-xia-jian-shi-nvidia-de-gpu-shi-yong-qing-kuang.md)
 * [文本标记tkitMarker\_bert](tkitmarker_bert.md)
 * [python内存增长监控memory\_profiler](python-nei-cun-zeng-chang-jian-kong-memoryprofiler.md)
+* [mongodb排序输出](mongodb-pai-xu-shu-chu.md)
 
