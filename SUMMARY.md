@@ -12,6 +12,7 @@
 
 ## Tkit模块
 
+* [tkitBackup数据库备份导出](tkit-mo-kuai/tkitbackup-shu-ju-ku-bei-fen-dao-chu.md)
 * [tkitFile文件操作包](tkit-mo-kuai/untitled-1.md)
 * [Terry-toolkit Python3工具包集](tkit-mo-kuai/terrytoolkit-python3-gong-ju-bao-ji.md)
 * [tkitText模块](tkit-mo-kuai/untitled/README.md)
