@@ -1,4 +1,5 @@
 site_name: Python百宝箱
 theme:
   name: material
+  custom_dir: docs/overrides
 copyright: Terrychan.org
